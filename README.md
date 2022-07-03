@@ -16,27 +16,24 @@ know whether this package might be useful for them.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+https://miro.medium.com/max/1123/1*q0L0XRrfs3to30m5DM7r5g.png
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+just call Dialogs.myDialog
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
 ```dart
 const like = 'sample';
+final dialog = Dialog();
+dialog.showSimpleDialog();
 ```
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+no information
 
 ## dart
+
 - to use this. please call from screen dart.
